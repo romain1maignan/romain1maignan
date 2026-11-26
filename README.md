@@ -6,11 +6,11 @@
 
 ## Computer Science Technology · Software & IT
 
-**OOP · Web & Mobile Development · Operating Systems · Technical Support · Cybersecurity Learning**
+**OOP · Web & Mobile Development · Operating Systems · Technical Support · Cybersecurity **
 
 **Thoughtful code. Practical solutions.**
 
-📍 Montréal area, Québec, Canada · 🎓 LaSalle College · 💼 Open to summer 2027 IT internships & project collaborations
+ 🎓 LaSalle College · 💼 Open to summer 2027 IT internships & project collaborations
 
 [![Email](https://img.shields.io/badge/Email-Contact-173b57?style=for-the-badge)](mailto:romemaignan@gmail.com)
 <!-- Add verified links once the account and website have been published:
@@ -23,7 +23,7 @@
 
 ## About me
 
-I'm a **Computer Science Technology (Programming) DEC student at LaSalle College in Montréal**. My coursework includes software development, operating systems, technical support fundamentals, and iOS development. I am also taking the **Google Cybersecurity Professional Certificate training (in progress)**.
+I'm a **Computer Science Technology (Programming) DEC student at LaSalle College in Montréal**. My coursework includes software development, operating systems, technical support fundamentals, and iOS development. I am also did **Google Cybersecurity Professional Certificate training **.
 
 I enjoy working across application development and practical IT problem-solving. My previous experience in customer-facing and operational environments has helped me develop a service-oriented approach, teamwork, reliability, and communication.
 
@@ -36,7 +36,7 @@ My Computer Science Technology studies cover programming and broader IT fundamen
 | Area | Technologies & concepts |
 | --- | --- |
 | **Programming & OOP** | Java, C#, Python; object-oriented programming (classes, objects, encapsulation, inheritance, polymorphism, abstraction) |
-| **Web development** | HTML5, CSS3, JavaScript, Bootstrap, ASP.NET MVC |
+| **Web development** | HTML5, CSS3, JavaScript, ASP.NET MVC |
 | **Data structures & algorithms** | Fundamental data structures, algorithms, and problem-solving |
 | **Databases** | SQL, relational database design, data modeling, Firebase Firestore |
 | **APIs & integrations** | REST APIs, JSON, data handling and application integration |
@@ -44,7 +44,7 @@ My Computer Science Technology studies cover programming and broader IT fundamen
 | **Systems & technical support** | Windows and Linux fundamentals, troubleshooting, operating systems coursework |
 | **Networking fundamentals** | TCP/IP, DNS, DHCP; concepts to demonstrate through upcoming labs |
 | **Development workflow** | Git version control, GitHub, software development life cycle (SDLC), debugging, testing and documentation |
-| **Cybersecurity** | Security fundamentals; Google Cybersecurity Professional Certificate training **in progress** |
+| **Cybersecurity** | Security fundamentals; Google Cybersecurity Professional Certificate training |
 
 **Programming concepts:** Object-oriented design · Encapsulation · Inheritance · Polymorphism · Abstraction · Data structures & algorithms · Debugging & testing
 
