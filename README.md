@@ -27,7 +27,7 @@ I'm a **Computer Science Technology (Programming) DEC student at LaSalle College
 
 I enjoy working across application development and practical IT problem-solving. My previous experience in customer-facing and operational environments has helped me develop a service-oriented approach, teamwork, reliability, and communication.
 
-**Currently seeking:** IT internship opportunities for **summer 2027** in Montréal, Laval, Saint-Eustache, and nearby communities. I am also open to discussing appropriate project collaborations.
+**Currently seeking:** IT internship opportunities for. I am also open to discussing appropriate project collaborations.
 
 ## Technical foundation
 
