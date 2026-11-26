@@ -10,7 +10,7 @@
 
 **Thoughtful code. Practical solutions.**
 
- 🎓 LaSalle College · 💼 Open to summer 2027 IT internships & project collaborations
+ 
 
 [![Email](https://img.shields.io/badge/Email-Contact-173b57?style=for-the-badge)](mailto:romemaignan@gmail.com)
 <!-- Add verified links once the account and website have been published:
